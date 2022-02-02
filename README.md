@@ -1,4 +1,7 @@
 # BladeLight2
 
 Developed with Unreal Engine 4
-(Remember to extract the plugins folder as well!)
+
+<p> Extract all files into one directory <p>
+<p> When asked to rebuild plugins click YES <p>
+<p> Happy testing! <p>
